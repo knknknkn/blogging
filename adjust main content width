@@ -1,0 +1,9 @@
+.home-top {
+	margin: 0 auto;
+	max-width: 720px;
+}
+
+.content {
+	float: right;
+	width: 720px;
+}
