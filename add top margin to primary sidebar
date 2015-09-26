@@ -1,0 +1,5 @@
+.sidebar-primary {
+	float: right;
+	width: 300px;
+	margin-top: 13px;
+}
