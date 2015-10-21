@@ -1,0 +1,5 @@
+.genesis-nav-menu .sub-menu a:hover,
+.genesis-nav-menu .sub-menu .current-menu-item > a:hover {
+color: #fff;
+background: #010101;
+}
