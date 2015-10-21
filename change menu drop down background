@@ -1,7 +1,7 @@
-Add this to custom css
+add this to custom css
 
 .genesis-nav-menu .sub-menu a:hover,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
-	color: #ccc;
-	background: #459633;
+	color: #333;
+	background: #f7fff4;
 }
