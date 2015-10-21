@@ -1,6 +1,7 @@
-.nav-primary .genesis-nav-menu .sub-menu a:hover,
-.nav-primary .genesis-nav-menu .sub-menu a:focus,
-.nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a {
-	color: #c3251d;
-  background: #333;
-	text-decoration: underline;
+Add this to custom css
+
+.genesis-nav-menu .sub-menu a:hover,
+.genesis-nav-menu .sub-menu .current-menu-item > a:hover {
+	color: #ccc;
+	background: #459633;
+}
